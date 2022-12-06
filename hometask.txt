@@ -1,1 +1,14 @@
 Ну, шапочка появилась, это логично из названий веток...
+
+Коммит, в котором добавлен список, в списке не представлен.
+Мои коммиты:
+- Добавлен файл с ответом на вопрос
+- Merge remote-tracking branch 'origin/buttons' into boots_buttons
+- Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+Коммиты, скопированые из данного репозитория:
+- fix readme
+- dots
+- README added
+- boots
+- init
